@@ -1,0 +1,7 @@
+[15:39:01 01/23/2019] Spinning up load balancer...
+[15:39:01 01/23/2019] Reading Config.yml...
+[15:39:01 01/23/2019] [ERROR] An error occurred while trying to parse config.yml
+[15:39:01 01/23/2019] [ERROR] open config.yml: no such file or directory
+2019/01/23 15:39:01 listen tcp :8082: bind: address already in use
+2019/01/23 15:39:01 listen tcp :8083: bind: address already in use
+2019/01/23 15:39:01 listen tcp :8081: bind: address already in use
