@@ -9,7 +9,7 @@ fi
 
 cd $HOME
 go build
-cp httpapp $HOME/bin/
+cp httpService $HOME/bin/
 
 cd $HOME/LoadBalancer/; go build
 cp LoadBalancer $HOME/bin/

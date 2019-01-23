@@ -1,0 +1,3452 @@
+[15:51:41 01/23/2019] Spinning up load balancer...
+[15:51:41 01/23/2019] Reading Config.yml...
+[15:51:41 01/23/2019] [ERROR] An error occurred while trying to parse config.yml
+[15:51:41 01/23/2019] [ERROR] open config.yml: no such file or directory
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+[15:54:34 01/23/2019] Spinning up load balancer...
+[15:54:34 01/23/2019] Reading Config.yml...
+[15:54:34 01/23/2019] [ERROR] An error occurred while trying to parse config.yml
+[15:54:34 01/23/2019] [ERROR] open config.yml: no such file or directory
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[itemtoDegree:c:d=2|e:f=4 shopItemID:a:b]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
+Waiting for the workerPool
+{a b 1}
+15626630993768608194
+map[shopItemID:a:b itemtoDegree:c:d=2|e:f=4]
+{"Shopid":"c","Itemid":"d","Degree":"2"}
+{"Shopid":"e","Itemid":"f","Degree":"4"}
