@@ -99,7 +99,77 @@ C. HttpApp
      More advance benchmarking: To be done
      
      
-Deployment:
+D. Deployment Script :
+
+
+#!/usr/bin/env bash
+CURR=`pwd`
+echo $CURR
+
+GOPARAMS="GOOS=linux GOARC=amd64"
+
+if [ ! -d "$CURR/bin/" ]; then
+  # Control will enter here if $DIRECTORY doesn't exist.
+  mkdir $CURR/bin
+fi
+
+echo "Building http service..."
+HTTPSERVICE_DIRECTORY=$CURR/httpService
+
+cd $HTTPSERVICE_DIRECTORY
+#GOOS=linux GOARC=amd64 go build
+GOOS=linux GOARC=amd64 go build
+cp httpService $CURR/bin/
+
+cd $HTTPSERVICE_DIRECTORY/LoadBalancer/; GOOS=linux GOARC=amd64 go build
+cp LoadBalancer $CURR/bin/
+cp config.yml $CURR/bin/
+
+cd $HTTPSERVICE_DIRECTORY/StressTest/; GOOS=linux GOARC=amd64 go build
+cp StressTest $CURR/bin/
+
+echo "Building RedisSyncerService..."
+HDFS_REDIS_SYNCER_DIRECTORY=$CURR/HDFSRedisSyncer
+
+cd $HDFS_REDIS_SYNCER_DIRECTORY/syncer; GOOS=linux GOARC=amd64 go build
+cp syncer $CURR/bin/
+cp config/config* $CURR/bin/
+
+
+echo "Building Hadoop Streaming library..."
+MAP_REDUCE_DIRECTORY=$CURR/MapReducerComputation
+
+cd $MAP_REDUCE_DIRECTORY/hadoop/cmd/mapper; GOOS=linux GOARC=amd64 go build
+cp $MAP_REDUCE_DIRECTORY/hadoop/cmd/mapper/mapper $CURR/bin/
+cd $MAP_REDUCE_DIRECTORY/hadoop/cmd/reducer; GOOS=linux GOARC=amd64 go build
+cp $MAP_REDUCE_DIRECTORY/hadoop/cmd/reducer/reducer $CURR/bin/
+cd $MAP_REDUCE_DIRECTORY/hadoop/cmd/mapper2; GOOS=linux GOARC=amd64 go build
+cp $MAP_REDUCE_DIRECTORY/hadoop/cmd/mapper2/mapper2 $CURR/bin/
+cd $MAP_REDUCE_DIRECTORY/hadoop/cmd/reducer2; GOOS=linux GOARC=amd64 go build
+cp $MAP_REDUCE_DIRECTORY/hadoop/cmd/reducer2/reducer2 $CURR/bin/
+
+
+echo "Building done"
+
+cd $CURR/bin
+
+ssh -t ld-rohitangsu_das@10.65.228.197 "mkdir bin2"
+
+echo "Uploading binaries to machine"
+scp * ld-rohitangsu_das@10.65.228.197:~/bin2/
+
+cd $CURR
+scp httpServiceRun.sh ld-rohitangsu_das@10.65.228.197:~/bin2/
+
+
+#Run the following httpServiceRun.sh in on the access node to start the services.
+
+
+E. Environment setup
+  a. Redis Setup: A single instance of Redis is built and run on the access machine which listens for connections on the default redis port. 
+  https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04
+  
+  
 
 
 
